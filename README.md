@@ -66,7 +66,7 @@ This project analyzes a retail sales dataset using MySQL to extract business ins
 ## 📂 Sample Data
 
 A sample of the dataset is available in this repository:  
-(https://github.com/sapnakaur4/Retail-sales-Analysis/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv)
+(https://github.com/sapnakaur4/Retail-sales-Analysis)
 ---
 
 ## 📁 Files Included
